@@ -1,0 +1,23 @@
+body {
+  background-image: url('../images/CBChristmas.jpg');
+  background-size: cover;
+  background-repeat: none;
+  background-position: center fixed;
+}
+
+.container {
+  background-color: rgba(0,0,0,0.8);
+  margin: 0 auto;
+  max-width: 65%;
+}
+
+.title {
+  color: white;
+  text-align: center;
+}
+
+#startButton {
+  margin-left: 400px;
+  width:100px;
+  border: solid 2px green;
+}
